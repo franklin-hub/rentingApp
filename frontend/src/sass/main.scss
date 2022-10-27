@@ -1,0 +1,25 @@
+// import abstracts files
+
+@import 'abstracts/mixins';
+@import 'abstracts/variables';
+
+// import base files
+
+@import 'base/base';
+@import 'base/utilities';
+
+// import components files
+
+@import 'components/notfound';
+
+// import layout files
+
+@import 'layout/grid';
+
+// import pages files
+
+@import 'pages/about';
+@import 'pages/home';
+@import 'pages/listingdetail';
+@import 'pages/listings';
+@import 'pages/contact.scss';
